@@ -1,0 +1,19 @@
+h3{
+    font-size:25px !important;
+}
+
+.btn-success:hover{
+    background-color: #d4e3ff;
+}
+
+
+canvas{
+    animation-name: this-guyshairless-face-suckswhy-amIstillhere;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes  his-guyshairless-face-suckswhy-amIstillhere{
+    from {box-shadow: 1px 1px 38px #d4e3ff;}
+    to{box-shadow: 1px 1px 38px rgb(249, 255, 178);}
+}
